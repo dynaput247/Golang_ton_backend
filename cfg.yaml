@@ -1,0 +1,5 @@
+BOT_TOKEN: "8167186092:AAHR7f8gZ-70BYt5TIEdSBXe1qDxE646pZI"
+BOT_ID: "@tcardbackendbot"
+CHANNEL_ID: 123
+ADMIN_USER_ID: 123
+TMA_URL: "https://tcard-frontend.vercel.app/"
